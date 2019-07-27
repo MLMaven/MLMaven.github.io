@@ -1,6 +1,6 @@
 mlmaven.com
 ============
 
-This is my personal/academic website as hosted on Github at [svmiller.com](http://mlmaven.com) and powered by Jekyll.
+This is our website as hosted on Github at [mlmaven.com](http://mlmaven.com) and powered by Jekyll.
 
 

@@ -10,13 +10,11 @@
 - title: "CV"
   href: "/cv/"
 
-- title: "For Students"
-  href: "/for-students/"
+- title: "Resources"
+  href: "/resources/"
   subcategories:
-    - subtitle: "Letters of Recommendation"
-      subhref: "/for-students/letters-of-recommendation/"
-    - subtitle: "Pi Sigma Alpha"
-      subhref: "/for-students/pi-sigma-alpha/"
+    - subtitle: "Useful Resources"
+      subhref: "/resources/useful-study-resources/"
 
 - title: "Research"
   href: "/research/"

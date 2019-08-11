@@ -12,5 +12,4 @@ categories:
   
 ---
 
-Colab Link:
-https://colab.research.google.com/drive/15kB56EjWHp594UanVIPzoEDmX3nBYmHP
+[Colab Link:](https://colab.research.google.com/drive/15kB56EjWHp594UanVIPzoEDmX3nBYmHP)

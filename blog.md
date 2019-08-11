@@ -4,7 +4,7 @@ title: Blog
 permalink: /blog/
 ---
 
-I blog semi-regularly about stuff. Most of my blog entries involve professional development stuff for student or some parlor tricks in LaTeX, R, or Markdown that I have taught myself. A full listing of my blog posts follows.
+These are blogposts semi-regularly about professional development and introduction to Machine Learning methodologies for AI enthusiast or practioners interested in Transfer Learning, Natural Language Processing etc. A full listing of the blog posts follows.
 
 <ul id="archive">
 {% for post in site.posts %}

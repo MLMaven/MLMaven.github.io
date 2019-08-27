@@ -26,3 +26,5 @@ bing_webmastertools_id: "E24D33E8D53D5730794478CB209F15E5"
 
 plugins:
   - jekyll-sitemap
+
+theme: jekyll-theme-minimal

@@ -7,9 +7,6 @@
 - title: "Blog"
   href: "/blog/"
 
-- title: "CV"
-  href: "/cv/"
-
 - title: "Resources"
   href: "/resources/"
   subcategories:
@@ -18,8 +15,3 @@
 
 - title: "Research"
   href: "/research/"
-
-- title: "Teaching"
-  href: "/teaching/"
-  subcategories:
-

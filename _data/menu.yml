@@ -15,3 +15,6 @@
 
 - title: "Research"
   href: "/research/"
+  subcategories:
+    - subtitle: "Paper Seminars"
+      subhref: "/resources/paper-seminars/"
